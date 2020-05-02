@@ -1,4 +1,5 @@
-# Day-19-Interfaces
+# HACKERRANK 30 DAYS OF CODE
+#Day-19-Interfaces
 Objective
 Today, we're learning about Interfaces. Check out the Tutorial tab for learning materials and an instructional video!
 
@@ -26,4 +27,4 @@ I implemented: AdvancedArithmetic
 12
 Explanation
 
-The integer  is evenly divisible by , , , and . Our divisorSum method should return the sum of these numbers, which is . The Solution class then prints  on the first line, followed by the sum returned by divisorSum (which is ) on the second line.
+The integer 6 is evenly divisible by 1, 2, 3, and 6. Our divisorSum method should return the sum of these numbers, which is 1+2+3+6=12. The Solution class then prints "I implemented: AdvancedArithmetic" on the first line, followed by the sum returned by divisorSum (which is ) on the second line.
