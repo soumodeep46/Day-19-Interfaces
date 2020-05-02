@@ -1,5 +1,5 @@
 # HACKERRANK 30 DAYS OF CODE
-#Day-19-Interfaces
+# Day-19-Interfaces
 Objective
 Today, we're learning about Interfaces. Check out the Tutorial tab for learning materials and an instructional video!
 
